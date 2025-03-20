@@ -26,6 +26,7 @@ The vertices are then passed as input to the Pillow library, which then creates 
 and draws a triangle using the input points as vertices. 
 
 ## Image Result
+![Image Result](triangle_image.png "Image Result")
 After the rendering process, the Pillow library saves the generated image in a PNG file. We 
 have generated a right red triangle with vertices on the top-left, bottom-left and bottom-right
 corners (100 pixels away from the image corners).
